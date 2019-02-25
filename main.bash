@@ -1,5 +1,5 @@
 
-s='nothing'
+s=`cat haiku.txt`
 
 echo ''
 echo 'This is our haiku:'

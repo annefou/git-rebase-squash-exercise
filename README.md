@@ -26,13 +26,7 @@ On the `haiku` branch you find a script that prints a haiku:
 $ bash main.bash
 
 This is our haiku:
-
-On a branch ...
-                  by Kobayashi Issa
-
-              On a branch
-              floating downriver
-              a cricket, singing.
+On a branch ... by Kobayashi Issa On a branch floating downriver a cricket, singing.
 ```
 
 The haiku is great but the
